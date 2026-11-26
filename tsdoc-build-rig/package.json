@@ -28,6 +28,6 @@
     "eslint": "~9.25.1",
     "jest-junit": "12.3.0",
     "typescript": "~5.8.2",
-    "webpack": "~5.102.1"
+    "webpack": "~5.113.0"
   }
 }
